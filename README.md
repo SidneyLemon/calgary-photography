@@ -1,3 +1,3 @@
 # calgary-photography
 
-Live: https://calgary-photography.vercel.app/#
+https://calgary-photography.vercel.app/#
